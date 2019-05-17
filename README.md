@@ -4,6 +4,8 @@ A comprehensive and interactive guide to get started with face recognition. Foll
 
 Read the complete tutorial [here](https://towardsdatascience.com/s01e01-3eb397d458d).
 
+![In Action](https://ietp-web-cdn-eandt-cache.azureedge.net/9/e/3/0/3/0/9e3030a6ebed463ae8d02c966ee37a11775ac0d1.jpg)
+
 ## DOWNLOADABLES.
 Are you here for the Friends Dataset?
 you can find it in [friends.rar](https://github.com/AssiduousArchitect/face-recognition/blob/master/friends.rar)
