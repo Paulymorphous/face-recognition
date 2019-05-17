@@ -10,5 +10,4 @@ you can find it in [friends.rar](https://github.com/AssiduousArchitect/face-reco
 
 Are you looking for Facenet Repo? [Here](https://github.com/davidsandberg/facenet) it is.
 
-
 Live Facial Recognition Script can be found [here](https://github.com/AssiduousArchitect/face-recognition/blob/master/faceRec.py).
